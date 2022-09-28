@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas6</string>
+    <string name="username">Username</string>
+    <string name="username2">Username Anda Adalah</string>
+    <string name="nama">Evan Benyamin Hotasi Natanael</string>
+    <string name="nim">H1D020095</string>
+    <string name="password">Password</string>
+    <string name="password2">Password Anda Adalah</string>
+    <string name="success">Login Berhasil!!</string>
+    <string name="submit">Submit</string>
+</resources>
